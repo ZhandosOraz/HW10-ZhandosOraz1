@@ -16,6 +16,10 @@ class ViewController: UIViewController {
     }
 
     func someMethod() {
-
     }
+
+//    Добавляю еше одну функйию
+    func someSecondMethod() {
+    }
+    
 }
