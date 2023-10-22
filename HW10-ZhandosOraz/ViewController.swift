@@ -21,5 +21,6 @@ class ViewController: UIViewController {
 //    Добавляю еше одну функйию
     func someSecondMethod() {
     }
+
     
 }
