@@ -16,11 +16,10 @@ class ViewController: UIViewController {
     }
 
     func someMethod() {
+        view.backgroundColor = .systemYellow
     }
 
 //    Добавляю еше одну функйию
     func someSecondMethod() {
     }
-
-    
 }
