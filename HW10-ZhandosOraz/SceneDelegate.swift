@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  HW10-ZhandosOraz
-//
-//  Created by Ораз on 20.10.2023.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
