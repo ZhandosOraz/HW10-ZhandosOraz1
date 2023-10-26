@@ -19,4 +19,9 @@ class ViewController: UIViewController {
 
     func setupHierarchy() {
     }
+
+    func setingsView() {
+        let second: Int = 2
+        print(second)
+    }
 }
